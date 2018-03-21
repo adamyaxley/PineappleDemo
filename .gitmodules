@@ -1,0 +1,3 @@
+[submodule "External/Pineapple"]
+	path = External/Pineapple
+	url = https://github.com/adamyaxley/Pineapple.git
