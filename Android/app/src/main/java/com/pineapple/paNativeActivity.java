@@ -20,7 +20,7 @@ public class paNativeActivity extends android.app.NativeActivity
     }
 	
 	static {
-		System.loadLibrary("libPineappleDemo");
+		System.loadLibrary("PineappleDemo");
 	}
 	
 	private void requestCorrectOrientation()
